@@ -6,7 +6,7 @@
 - 🪴 I’m currently focusing on learning Javascript, React and Python. 
 - 🔮 Knowledge: HTML, CSS, Javascript, Python, Figma, Bootstrap. 
 
-# Get in touch <br>
+### Get in touch <br>
 
 - E-mail: laysegabriellec@gmail.com
 - Linkedin: https://www.linkedin.com/in/layse/
