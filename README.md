@@ -7,5 +7,7 @@ Layse, brazilian, 31. Based in Lisbon/Portugal. Front-End Development student.
 
 ### Get in touch <br>
 
-- E-mail: laysegabriellec@gmail.com
+- E-mail: layse.dev@gmail.com
 - Linkedin: https://www.linkedin.com/in/layse/
+- Portfolio: SOON!
+
